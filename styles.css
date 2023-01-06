@@ -51,3 +51,79 @@ h2{
     top: 100px;
     background-color: gold;
 }
+
+.midel{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+    margin: 10px;
+    padding: 10px;
+    justify-content: right;
+}
+/* main section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+section{
+    margin-top: 130px;
+}
+/* about section styles */
+.about{
+    background: #FFF8f3;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+}
+.section-title{
+    text-align: center;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+.section-description{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
+
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about .info-title{
+    font-size: 20px;
+    color: #757575;
+}
+.info-description{
+    font-weight: 700;
+    font-size: 20px;
+    color:#474747 ;
+}
+/* What i do styles */
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgb(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #757575;
+}
+.what{
+    text-align: center;
+}
