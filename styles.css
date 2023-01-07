@@ -167,3 +167,17 @@ top: 1792.3px;
     left: 294px;
     top: 2399.26px;
 }
+.last-site{
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2652.26px;
+
+/* Dark 01 */
+
+background: #151414;
+}
+.last-site-1{
+    color: #FFFFFF;
+}
