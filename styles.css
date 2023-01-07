@@ -129,33 +129,33 @@ section{
 }
 .theard-section{
     position: absolute;
-width: 1140px;
-height: 300px;
-left: 230px;
-top: 2222.26px;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2222.26px;
 
-background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
-border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+   border-radius: 8px;
 }
 .theard-section-1{
     position: absolute;
-width: 459px;
-height: 94px;
-left: 294px;
-top: 2281.26px;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2281.26px;
 
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 40px;
-line-height: 47px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 .theard-section-2{
     position: absolute;
-width: 160px;
-height: 64px;
-left: 294px;
-top: 2399.26px;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2399.26px;
 }
